@@ -185,7 +185,7 @@ Tablas típicas utilizadas por los repositorios:
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
-**Kepa Gogenola**
+**Juan Francisco Bovolini y Kepa Gogenola**
 Segundo año – Ingeniería en Sistemas Informáticos (UAI)
